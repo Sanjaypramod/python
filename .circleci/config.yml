@@ -4,7 +4,7 @@ workflows:
   test:
     jobs:
       - build-run-linux:
-          context: hello-world-demos
+         context: hello-world-demos
 
   test-daily:
     triggers:
