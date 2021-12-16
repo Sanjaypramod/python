@@ -1,0 +1,17 @@
+{
+  "name": "python-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest-python": "^1.0.5"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "pytest"
+  },
+  "author": "",
+  "license": "ISC"
+}
